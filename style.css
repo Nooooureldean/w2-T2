@@ -1,0 +1,22 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    color: white;
+    background-color: #171c48;
+}
+#taskItems
+{
+padding: 10px;
+border-radius: 20px;
+background-color: blueviolet;
+}
+#fname
+{
+padding: 5px;
+border-radius: 10px;
+}
